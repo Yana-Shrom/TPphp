@@ -1,0 +1,11 @@
+{
+  "name": "monprojet/parc-vehicules",
+  "description": "Gestion d'un parc de véhicules avec héritage et méthodes métier",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
