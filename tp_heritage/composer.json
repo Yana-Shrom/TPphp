@@ -1,0 +1,11 @@
+{
+  "name": "monprojet/gestion-livres",
+  "description": "Gestion de livres avec héritage en PHP",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
