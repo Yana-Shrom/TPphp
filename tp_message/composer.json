@@ -1,0 +1,10 @@
+{
+    "name": "exemple/systeme-messagerie",
+    "description": "Un système de notifications multicanal en PHP",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
