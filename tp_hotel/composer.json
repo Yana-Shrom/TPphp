@@ -1,0 +1,13 @@
+{
+  "name": "hotel/reservation-system",
+  "description": "Système de réservation d'hôtel en PHP POO",
+  "type": "project",
+  "require": {
+    "php": "^8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hotel\\": "src/"
+    }
+  }
+}
